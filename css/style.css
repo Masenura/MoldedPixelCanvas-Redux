@@ -1120,7 +1120,7 @@ Prising
 
 #resume .content{
 	padding:90px 0;
-	background: #fff url(../images/resumebg.png)   no-repeat;
+	background: #292929 url(../images/psd-bg2.jpg)   no-repeat;
 	background-attachment: fixed;
 	background-position: center;
 }
@@ -1343,7 +1343,7 @@ Contacts
 --------------------------------------------------------------*/
 
 #contacts{
-	background: #292929 url(../images/box2.png);
+	background: #292929;
 	background-repeat:no-repeat;
 	background-attachment: fixed;
 	background-position: 50% 80%;
